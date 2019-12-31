@@ -1,2 +1,11 @@
 # boot_anything_server
 server that return anything types.
+
+# endpoints
+
+[options="header"]
+|===
+|no|endopoint   |type |remarks
+|1 |book/json/  |json |       
+|2 |book/object/|book |   
+|===
